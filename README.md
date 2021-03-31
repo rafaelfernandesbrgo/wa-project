@@ -9,17 +9,17 @@ In this project it was used:
 
 # FrontEnd
 
-       - React
-       - Joi: dealing with frontend validation
-       - unform: to handle forms
-       - styled-components: to style components
-       - axios: handle asynchronous requests
-       - polished: handle colors
-       - spring: for animations
-       - typescript: typing
-       - Docker and Docker-compose: container and its management
-       - Hooks: natives and personalities like Toast and Tooltip
-       - Market Design Pattern
+- React
+- Joi: dealing with frontend validation
+- unform: to handle forms
+- styled-components: to style components
+- axios: handle asynchronous requests
+- polished: handle colors
+- spring: for animations
+- typescript: typing
+- Docker and Docker-compose: container and its management
+- Hooks: natives and personalities like Toast and Tooltip
+- Market Design Pattern
 
 # BackEnd
 
