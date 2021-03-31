@@ -31,19 +31,19 @@ In this project it was used:
 - tsyringe: automatic injection of independence
 - Market Design Pattern
 
-# Usage instruction:
+# Instruction for use:
 
 ```
 
-    cd FrontEnd
+    cd BackEnd
+    yarn install
     docker-compose up
  
 ```
 
 ```
 
-    cd BackEnd
-    yarn install
+    cd FrontEnd
     docker-compose up
  
 ```
@@ -85,19 +85,18 @@ Neste projeto foi usado:
 
 ```
 
-    cd FrontEnd
-    docker-compose up
- 
-```
-
-```
-
     cd BackEnd
     yarn install
     docker-compose up
  
 ```
 
+```
+
+    cd FrontEnd
+    docker-compose up
+ 
+```
 
 # Pictures
 
