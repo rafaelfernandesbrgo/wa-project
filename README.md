@@ -23,13 +23,13 @@ In this project it was used:
 
 # BackEnd
 
-       - Node, express
-       - celebrate: handle backend validation
-       - typescript: typing
-       - Docker and Docker-compose: container and its management
-       - typeorm: ORM, migration
-       - tsyringe: automatic injection of independence
-       - Market Design Pattern
+- Node, express
+- celebrate: handle backend validation
+- typescript: typing
+- Docker and Docker-compose: container and its management
+- typeorm: ORM, migration
+- tsyringe: automatic injection of independence
+- Market Design Pattern
 
 Usage instruction:
 
@@ -57,27 +57,27 @@ Neste projeto foi usado:
 
 #FrontEnd
 
-       - React
-       - Joi: lidar com validação no frontend
-       - unform: para lidar com formulários
-       - styled-components:  para estilizar componentes
-       - axios: lidar com requisições asincronas
-       - polished: lidar com  cores
-       - spring: para animações
-       - typescript: tipagem
-       - Docker e Docker-compose: container e sua gestão
-       - Hooks: nativos e personalidaos como Toast e Tooltip
-       - Padrao de Projeto do mercado  
+- React
+- Joi: lidar com validação no frontend
+- unform: para lidar com formulários
+- styled-components:  para estilizar componentes
+- axios: lidar com requisições asincronas
+- polished: lidar com  cores
+- spring: para animações
+- typescript: tipagem
+- Docker e Docker-compose: container e sua gestão
+- Hooks: nativos e personalidaos como Toast e Tooltip
+- Padrao de Projeto do mercado  
 
 #BackEnd
 
-       - Node, express
-       - celebrate: lidar com validação no backend
-       - typescript: tipagem
-       - Docker e Docker-compose: container e sua gestão
-       - typeorm:  ORM, migration
-       - tsyringe: injeção autmatica de indepência
-       - Padrao de Projeto do mercado
+- Node, express
+- celebrate: lidar com validação no backend
+- typescript: tipagem
+- Docker e Docker-compose: container e sua gestão
+- typeorm:  ORM, migration
+- tsyringe: injeção autmatica de indepência
+- Padrao de Projeto do mercado
 
 
 Instrução de usos
