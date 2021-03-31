@@ -43,6 +43,7 @@ In this project it was used:
 ```
 
     cd BackEnd
+    yarn install
     docker-compose up
  
 ```
@@ -92,6 +93,7 @@ Neste projeto foi usado:
 ```
 
     cd BackEnd
+    yarn install
     docker-compose up
  
 ```
