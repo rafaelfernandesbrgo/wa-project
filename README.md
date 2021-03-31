@@ -31,7 +31,7 @@ In this project it was used:
 - tsyringe: automatic injection of independence
 - Market Design Pattern
 
-Usage instruction:
+# Usage instruction:
 
 ```
 
@@ -55,7 +55,7 @@ Projeto criado em React, Node, TypeScript com container e postgres com 3 imagens
 
 Neste projeto foi usado:
 
-#FrontEnd
+# FrontEnd
 
 - React
 - Joi: lidar com validação no frontend
@@ -69,7 +69,7 @@ Neste projeto foi usado:
 - Hooks: nativos e personalidaos como Toast e Tooltip
 - Padrao de Projeto do mercado  
 
-#BackEnd
+# BackEnd
 
 - Node, express
 - celebrate: lidar com validação no backend
@@ -80,7 +80,7 @@ Neste projeto foi usado:
 - Padrao de Projeto do mercado
 
 
-Instrução de usos
+# Instrução de usos
 
 ```
 
