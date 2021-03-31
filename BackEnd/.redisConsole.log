@@ -1,0 +1,3 @@
+{"id":"G0WyCIA9kJOS5E21","command":"FLUSHALL","arguments":""}
+{"id":"ZDp5a18I743Cqfgd","command":"SELECT","arguments":"1"}
+{"id":"k6wPmMhL0CrDfO9Q","command":"KEYS","arguments":"*"}
