@@ -3,7 +3,7 @@ Project created in React, Node, TypeScript with container and postgres.
 
 ***
 
-Project created in React, Node, TypeScript with container and postgres com 3 images were created each in a container, one with API node, the other with React and the last one with Postgress, all of them managed by Docker-compose.
+Project created in React, Node, TypeScript with container and postgres with 3 images, one in each container: one with API node, the other with React and the last one with Postgress, all of them managed by Docker-Compose.
 
 In this project it was used:
 
@@ -52,7 +52,7 @@ In this project it was used:
 
 (pt-br)
 
-Projeto criado em React, Node, TypeScript com container e postgres com 3 imagens foram criadas cada em um container, uma com nó API, outra com React e a última com Postgress, todas gerenciadas pelo Docker-compose.
+Projeto criado em React, Node, TypeScript com container e postgres com 3 imagens, uma em cada container, sendo: uma com nó API, outra com React e a última com Postgress. Todas gerenciadas pelo Docker-Compose.
 
 Neste projeto foi usado:
 
