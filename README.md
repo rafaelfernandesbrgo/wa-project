@@ -11,12 +11,12 @@ In this project it was used:
 
 - React
 - Joi: dealing with frontend validation
-- unform: to handle forms
-- styled-components: to style components
-- axios: handle asynchronous requests
-- polished: handle colors
-- spring: for animations
-- typescript: typing
+- Unform: to handle forms
+- Styled-components: to style components
+- Axios: handle asynchronous requests
+- Polished: handle colors
+- Spring: for animations
+- Typescript: typing
 - Docker and Docker-compose: container and its management
 - Hooks: natives and personalities like Toast and Tooltip
 - Market Design Pattern
@@ -24,11 +24,11 @@ In this project it was used:
 # BackEnd
 
 - Node, express
-- celebrate: handle backend validation
-- typescript: typing
+- Celebrate: handle backend validation
+- Typescript: typing
 - Docker and Docker-compose: container and its management
-- typeorm: ORM, migration
-- tsyringe: automatic injection of independence
+- Typeorm: ORM, migration
+- Tsyringe: automatic injection of independence
 - Market Design Pattern
 
 # Instruction for use:
@@ -60,28 +60,28 @@ Neste projeto foi usado:
 
 - React
 - Joi: lidar com validação no frontend
-- unform: para lidar com formulários
-- styled-components:  para estilizar componentes
-- axios: lidar com requisições asincronas
-- polished: lidar com  cores
-- spring: para animações
-- typescript: tipagem
-- Docker e Docker-compose: container e sua gestão
+- Unform: para lidar com formulários
+- Styled-components:  para estilizar componentes
+- Axios: lidar com requisições asincronas
+- Polished: lidar com  cores
+- Spring: para animações
+- Typescript: tipagem
+- Docker e Docker-Compose: container e sua gestão
 - Hooks: nativos e personalidaos como Toast e Tooltip
-- Padrao de Projeto do mercado  
+- Padrão de Projeto do mercado  
 
 # BackEnd
 
 - Node, express
-- celebrate: lidar com validação no backend
-- typescript: tipagem
+- Celebrate: lidar com validação no backend
+- Typescript: tipagem
 - Docker e Docker-compose: container e sua gestão
-- typeorm:  ORM, migration
-- tsyringe: injeção autmatica de indepência
-- Padrao de Projeto do mercado
+- Typeorm:  ORM, migration
+- Tsyringe: injeção autmatica de indepência
+- Padrão de Projeto do mercado
 
 
-# Instrução de usos
+# Instruções de uso
 
 ```
 
