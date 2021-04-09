@@ -1,60 +1,91 @@
 # wa-project
-Project in React, Node, TypeScript with container and postgres.
+Project created in React, Node, TypeScript with container and postgres.
 
 ***
 
-React, Node, TypeScript project with container and postgres with 2 images (API node and postgres) in a container (Docker) interacting with a React web application.
+Project created in React, Node, TypeScript with container and postgres with 3 images, one in each container: one with API node, the other with React and the last one with Postgress, all of them managed by Docker-Compose.
 
-In this project it was requested to add an order screen and all its implications for the other courses, all in a specific pattern design requested.
+In this project it was used:
 
-# Instructions for use
+# FrontEnd
 
-``
+- React
+- Joi: dealing with frontend validation
+- Unform: to handle forms
+- Styled-components: to style components
+- Axios: handle asynchronous requests
+- Polished: handle colors
+- Spring: for animations
+- Typescript: typing
+- Docker and Docker-compose: container and its management
+- Hooks: natives and personalities like Toast and Tooltip
+- Market Design Pattern
 
-    cd api
+# BackEnd
+
+- Node, express
+- Celebrate: handle backend validation
+- Typescript: typing
+- Docker and Docker-compose: container and its management
+- Typeorm: ORM, migration
+- Tsyringe: automatic injection of independence
+- Market Design Pattern
+
+# Instruction for use:
+
+```
+
+    cd BackEnd
     yarn install
     docker-compose up
  
-``
+```
 
-``
+```
 
-    cd web
-    yarn install
-    yarn start
+    cd FrontEnd
+    docker-compose up
  
-``
-
-# Observation
-
-To reset the api, use the command below, but with ** (be careful because it not only restarts the containers of this application, it also does it for the other containers running on the pc) ** or do it manually.
-
-``
-
-    cd api
-    yarn restart
- 
-``
-
-# Pictures
-
-! [alt text] ()
-
-! [alt text] ()
+```
 
 ****
 
 (pt-br)
 
-Projeto em React, Node, TypeScript com container e postgres com 2 imagens(API node  e  postgres) em um container(Docker) interagindo com uma aplição web em React.
+Projeto criado em React, Node, TypeScript com container e postgres com 3 imagens, uma em cada container, sendo: uma com nó API, outra com React e a última com Postgress. Todas gerenciadas pelo Docker-Compose.
 
-Neste projeto foi solicitado que se adicionasse uma tela de pedidos e todas suas implicações nas outras camdas, tudo isso em um design pattern espécifico solicitado.
+Neste projeto foi usado:
+
+# FrontEnd
+
+- React
+- Joi: lidar com validação no frontend
+- Unform: para lidar com formulários
+- Styled-components:  para estilizar componentes
+- Axios: lidar com requisições asincronas
+- Polished: lidar com  cores
+- Spring: para animações
+- Typescript: tipagem
+- Docker e Docker-Compose: container e sua gestão
+- Hooks: nativos e personalidaos como Toast e Tooltip
+- Padrão de Projeto do mercado  
+
+# BackEnd
+
+- Node, express
+- Celebrate: lidar com validação no backend
+- Typescript: tipagem
+- Docker e Docker-compose: container e sua gestão
+- Typeorm:  ORM, migration
+- Tsyringe: injeção autmatica de indepência
+- Padrão de Projeto do mercado
+
 
 # Instruções de uso
 
 ```
 
-    cd api
+    cd BackEnd
     yarn install
     docker-compose up
  
@@ -62,27 +93,15 @@ Neste projeto foi solicitado que se adicionasse uma tela de pedidos e todas suas
 
 ```
 
-    cd web
-    yarn install
-    yarn start
- 
-```
-
-# Observação
-
-Para resetar a api usa-se o comando abaixo, mas com **(atenção pois ele além de reinicar os container dessa aplicação ele também o faz para os outros container rodando no pc)** ou faça manualmente.
-
-```
-
-    cd api
-    yarn restart
+    cd FrontEnd
+    docker-compose up
  
 ```
 
 # Pictures
 
-![alt text]()
+![alt text](https://github.com/rafaelfernandesbrgo/wa-project/blob/main/FrontEnd/arts/01.png)
 
-![alt text]()
+![alt text](https://github.com/rafaelfernandesbrgo/wa-project/blob/main/FrontEnd/arts/02.png)
 
-    
+
